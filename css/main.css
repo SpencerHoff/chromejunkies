@@ -1,0 +1,137 @@
+
+/* Here you can start styling. ^_^*/
+
+
+	
+
+body {
+	background-image: url("../docs/backgro.png");
+	background-attachment: fixed;
+ 	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	
+}
+
+#sone {
+	padding-top:4rem;
+	min-height: 100vh;
+	
+}
+a{
+	color:deepskyblue;
+}
+a:hover {
+	color:darkblue;
+}
+h2{
+	color:yellow;
+	padding: 1rem 0rem 1rem 0rem;
+}
+h1{
+	color:yellow;
+	padding: 1rem 0rem 1rem 0rem;
+}
+h3{
+	color:yellow;
+	padding: 1rem 0rem 1rem 1rem;
+}
+p{
+	color:yellow;
+}
+.logo{
+	background-color:black;
+	align-content: center;
+	padding:0.5rem 0.5rem 0rem 0.5rem;
+	
+	
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color:yellow;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+	color:yellow;
+	
+}
+.navbar{
+	background-color:black;
+	
+}
+#map{
+	border:thin yellow solid;
+}
+#doclist{
+	
+}
+#about{
+	
+}
+.list_item{
+	
+	border:thin yellow solid;
+	color:yellow;
+	margin-bottom:10px;
+	background-color: rgba(0,0,0,0.5)
+	
+	
+}
+.list_item p {margin-bottom:0; }
+.cyberrow{
+	position:relative;
+	display:flex;
+	
+}
+.profile{
+	position:relative;
+	display:flex;
+	background-color: rgba(0,0,0,0.5);
+	border:thin yellow solid;
+	
+}
+.bio{
+	padding:1rem;
+	
+}
+.sidebar{
+	padding:1rem;
+	width:500px;
+	
+}
+.footer{
+	background-color: black;
+	color:yellow;
+	padding:1rem;
+	
+	position: relative;
+}
+.ad{
+	border:medium black solid;
+	margin:0.5rem;
+	position:relative;
+	
+}
+
+
+
+#doctors{
+	padding-top:4rem;
+	min-height: 100vh;
+}
+
+#stwo {
+	padding-top:4rem;
+	min-height:100vh;
+}
+#sthree {
+	padding-top:4rem;
+	min-height: 100vh;
+}
+
+#sfour {
+	padding-top:4rem;
+	min-height: 100vh;
+}
+
+
